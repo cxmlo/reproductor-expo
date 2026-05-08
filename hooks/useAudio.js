@@ -22,7 +22,7 @@ export function fmt(s) {
 }
 
 // ─── CONFIG ───────────────────────────────────────────────────────────────────
-const YT_API_KEY = 'AIzaSyAikcQPNqDcjdLwhcQQLJOIX7tZkIQHDaI'
+const YT_API_KEY = '' //api youtube aqui
 
 
 const COBALT_INSTANCES = [
